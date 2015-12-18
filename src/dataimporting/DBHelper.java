@@ -10,7 +10,7 @@ public class DBHelper {
 	public String dbUrl;//="jdbc:mysql://127.0.0.1/taxitracedots2014";
 	public static final String dbDriver="com.mysql.jdbc.Driver";
 	public static final String username="root";
-	public static final String password="";
+	public static final String password="19940910Su";
 	
 	public DBHelper(String dbUrl)
 	{
